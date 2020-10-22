@@ -1,7 +1,7 @@
 # ServerCodeExample
 Example Code of a backend server I developed for a university project.
 
-Working period: 06/20-07/20
+**Working period: 06/20-07/20**
 
 ## Contents
 Each folder contains a specific part of the Project:
